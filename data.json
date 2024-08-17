@@ -1,0 +1,532 @@
+[
+    {
+        "code": "E200",
+        "name": "Sorbic Acid",
+        "overview": "A natural preservative used to inhibit molds, yeasts, and fungi in various foods.",
+        "uses": "Found in cheese, wine, baked goods, and salad dressings.",
+        "precautions": "Generally considered safe, but may cause allergic reactions in sensitive individuals.",
+        "interactions": "Inhibits the growth of mold, yeast, and some bacteria.",
+        "origin": "Naturally occurs in some berries; also synthetically produced.",
+        "dailyIntake": "25 mg/kg body weight"
+    },
+    {
+        "code": "E300",
+        "name": "Ascorbic Acid (Vitamin C)",
+        "overview": "Antioxidant and vitamin.",
+        "uses": "Prevents oxidation in foods and beverages; also used as a nutritional supplement.",
+        "precautions": "High doses can cause gastrointestinal distress and kidney stones.",
+        "interactions": "Essential for collagen synthesis and immune function.",
+        "origin": "Naturally found in fruits and vegetables; also synthetically produced.",
+        "dailyIntake": "Not specified, but the recommended daily allowance (RDA) is 65-90 mg."
+    },
+    {
+        "code": "E950",
+        "name": "Acesulfame Potassium",
+        "overview": "Artificial sweetener, 200 times sweeter than sugar.",
+        "uses": "Sweetens sugar-free drinks, desserts, and baked goods.",
+        "precautions": "Generally considered safe, but some studies suggest it may affect metabolic processes.",
+        "interactions": "Not metabolized by the body, excreted unchanged.",
+        "origin": "Synthetic compound.",
+        "dailyIntake": "15 mg/kg body weight"
+    },
+    {
+        "code": "E951",
+        "name": "Aspartame",
+        "overview": "Artificial sweetener, about 200 times sweeter than sugar.",
+        "uses": "Sweetens diet sodas, sugar-free gum, and low-calorie desserts.",
+        "precautions": "Should be avoided by individuals with phenylketonuria (PKU).",
+        "interactions": "Metabolizes into aspartic acid, phenylalanine, and methanol in the body.",
+        "origin": "Synthetic compound.",
+        "dailyIntake": "40 mg/kg body weight"
+    },
+    {
+        "code": "E211",
+        "name": "Sodium Benzoate",
+        "overview": "Preservative that inhibits the growth of bacteria, yeast, and molds.",
+        "uses": "Common in acidic foods like salad dressings, carbonated drinks, and fruit juices.",
+        "precautions": "May cause allergic reactions in sensitive individuals.",
+        "interactions": "Can form benzene, a carcinogen, when combined with ascorbic acid (vitamin C).",
+        "origin": "Derived from benzoic acid, which is naturally found in some fruits.",
+        "dailyIntake": "5 mg/kg body weight"
+    },
+    {
+        "code": "E621",
+        "name": "Monosodium Glutamate",
+        "overview": "Flavor enhancer that intensifies savory tastes.",
+        "uses": "Added to savory snacks, soups, and processed meats.",
+        "precautions": "Can cause headaches or Chinese Restaurant Syndrome in sensitive individuals.",
+        "interactions": "May overstimulate nerve cells in high quantities.",
+        "origin": "Fermented from starch, sugar beets, sugar cane, or molasses.",
+        "dailyIntake": "30 mg/kg body weight"
+    },  
+    {
+        "code": "E250",
+        "name": "Sodium Nitrite",
+        "overview": "Preservative and color fixative in cured meats.",
+        "uses": "Preserves color and prevents bacterial growth in processed meats like bacon and ham.",
+        "precautions": "Excessive consumption can lead to the formation of nitrosamines, which are carcinogenic.",
+        "interactions": "Converts to nitrite in the stomach, which can react with amines to form nitrosamines.",
+        "origin": "Synthetic compound..",
+        "dailyIntake": "0.07 mg/kg body weight"
+    },
+    {
+        "code": "E420",
+        "name": "Sorbitol",
+        "overview": "Sugar alcohol used as a sweetener and humectant.",
+        "uses": "Found in sugar-free candies, gums, and diabetic foods.",
+        "precautions": "Can cause gastrointestinal distress, such as bloating and diarrhea, if consumed in excess.",
+        "interactions": "Slow absorption can cause a laxative effect.",
+        "origin": "Naturally occurring in fruits, but commercially produced from glucose.",
+        "dailyIntake": "Not specified, but typically considered safe up to 20 g/day."
+    },
+    {
+        "code": "E415",
+        "name": "Xanthum Gum",
+        "overview": "Thickening and stabilizing agent.",
+        "uses": "Common in salad dressings, sauces, and gluten-free baked goods.",
+        "precautions": "May cause digestive issues in some people.",
+        "interactions": "Generally safe, as it is not absorbed into the body.",
+        "origin": "Produced by fermentation of glucose or sucrose by the bacterium *Xanthomonas campestris.",
+        "dailyIntake": "Not Specified."
+    },
+    {
+        "code": "E407",
+        "name": "Carrageenan",
+        "overview": "hickener and stabilizer extracted from red seaweed.",
+        "uses": "Used in dairy products, plant-based milk, and processed meats.",
+        "precautions": "May cause gastrointestinal inflammation in some individuals.",
+        "interactions": "Can cause digestive issues in high doses.",
+        "origin": "Extracted from red seaweed.",
+        "dailyIntake": "75 mg/kg body weight"
+    },
+    {
+        "code": "E500",
+        "name": "Sodium Bicarbonate",
+        "overview": "Leavening agent and pH regulator.",
+        "uses": "Used in baking, effervescent beverages, and cleaning products.",
+        "precautions": "High intake can lead to metabolic alkalosis.",
+        "interactions": "Neutralizes acids in the body, altering stomach acidity.",
+        "origin": "Naturally occurring mineral, also synthetically produced..",
+        "dailyIntake": "Not specified, but high intake should be avoided."
+    },
+    {
+        "code": "E282",
+        "name": "Calcium Propionate",
+        "overview": "Antifungal agent used as a preservative.",
+        "uses": "Extends the shelf life of baked goods by inhibiting mold growth.",
+        "precautions": "Generally recognized as safe, but may cause digestive issues in sensitive individuals.",
+        "interactions": "Does not accumulate in the body, as it is metabolized and excreted.",
+        "origin": "Produced by reacting calcium hydroxide with propionic acid.",
+        "dailyIntake": "3 mg/kg body weight"
+    },
+    {
+        "code": "E102",
+        "name": "Tartrazine",
+        "overview": "Synthetic yellow dye.",
+        "uses": "Used to color beverages, candies, and processed foods.",
+        "precautions": "Can cause allergic reactions and hyperactivity in sensitive individuals.",
+        "interactions": "May cause adverse reactions in individuals with aspirin sensitivity.",
+        "origin": "Synthetic, derived from petroleum.",
+        "dailyIntake": "7.5 mg/kg body weight"
+    },
+    {
+        "code": "E321",
+        "name": "Butylated Hydroxytoluene",
+        "overview": "Antioxideant preservative.",
+        "uses": "Prevents oxidation in oils, fats, and processed foods.",
+        "precautions": "Controversial due to potential carcinogenic effects in high doses.",
+        "interactions": "Interferes with free radicals, preventing oxidation.",
+        "origin": "Synthetic compound.",
+        "dailyIntake": "0.3 mg/kg body weight"
+    },
+    {
+        "code": "E322",
+        "name": "Lecithin",
+        "overview": "Emulsifier that helps blend ingredients.",
+        "uses": "Common in chocolates, margarine, and baked goods.",
+        "precautions": "Generally considered safe, but may cause mild digestive issues in some people.",
+        "interactions": "Supports fat digestion, as it is a natural phospholipid.",
+        "origin": "Derived from soybeans, eggs, or sunflower seeds.",
+        "dailyIntake": "Not Specified."
+    },
+    {
+        "code": "E440",
+        "name": "Pectin",
+        "overview": "Gelling agent extracted from fruits.",
+        "uses": "Used in jams, jellies, and fruit preserves.",
+        "precautions": "Generally safe, but excessive intake can cause digestive discomfort.",
+        "interactions": "Forms gels in the digestive tract, slowing digestion.",
+        "origin": "Extracted from citrus peels and apple pomace.",
+        "dailyIntake": "Not Specified."
+    },
+    {
+        "code": "E330",
+        "name": "Citric Acid",
+        "overview": "Acidulant that adds a sour taste.",
+        "uses": "Common in beverages, candies, and canned foods.",
+        "precautions": "Generally safe, but excessive intake can erode tooth enamel.",
+        "interactions": "Participates in the citric acid cycle in the body, providing energy.",
+        "origin": "Naturally found in citrus fruits; also produced by fermentation.",
+        "dailyIntake": "Not Specified."
+    },
+    {
+        "code": "E422",
+        "name": "Glycerol",
+        "overview": "Humectant, sweetener, and solvent.",
+        "uses": "Found in candies, icings, and soft drinks.",
+        "precautions": "Generally safe, but can cause headaches and digestive issues in high doses.",
+        "interactions": "Metabolizes into glucose, providing energy.",
+        "origin": "Derived from plant oils or animal fats.",
+        "dailyIntake": "Not Specified."
+    },
+    {
+        "code": "E223",
+        "name": "Sodium Metabisulfite",
+        "overview": "Preservative and antioxidant",
+        "uses": "Preserves the color of dried fruits, wine, and baked goods.",
+        "precautions": "Can cause allergic reactions, especially in asthmatics.",
+        "interactions": "Sulfites can cause oxidative stress in sensitive individuals.",
+        "origin": "Synthetic, derived from sulfur dioxide.",
+        "dailyIntake": "0.7 mg/kg body weight."
+    },
+    {
+        "code": "E414",
+        "name": "Acacia Gum",
+        "overview": "Emulsifier, stabilizer, and thickening agent.",
+        "uses": "Used in soft drinks, candies, and confectionery products.",
+        "precautions": "Generally safe, but may cause mild digestive issues.",
+        "interactions": "Fermented by gut bacteria, potentially benefiting gut health.",
+        "origin": "Derived from the sap of the Acacia tree.",
+        "dailyIntake": "Not Specified."
+    },
+    {
+        "code": "E202",
+        "name": "Potassim Sorbate",
+        "overview": "Preservative that inhibits mold and yeast growth.",
+        "uses": "Extends the shelf life of cheese, baked goods, and beverages.",
+        "precautions": "Generally safe, but may cause skin or eye irritation in sensitive individuals.",
+        "interactions": "Inhibits microbial growth by interfering with cellular enzymes.",
+        "origin": "Synthetic compound.",
+        "dailyIntake": "3 mg/kg body weight."
+    },
+    {
+        "code": "E968",
+        "name": "Erythritol",
+        "overview": "Sugar alcohol used as a sweetener.",
+        "uses": "Found in sugar-free gums, candies, and baked goods.",
+        "precautions": "Generally safe, but excessive intake can cause digestive discomfort.",
+        "interactions": "Absorbed in the small intestine and excreted unchanged, minimal impact on blood sugar.",
+        "origin": "Naturally found in some fruits; commercially produced by fermenting glucose.",
+        "dailyIntake": "Not specified, but typically well-tolerated up to 1 g/kg body weight."
+    },
+    {
+        "code": "E1520",
+        "name": "Propylene Glycol",
+        "overview": "Humectant, solvent, and preservative.",
+        "uses": "Found in frostings, salad dressings, and flavorings.",
+        "precautions": "Generally safe but can cause allergic reactions or skin irritation in sensitive individuals.",
+        "interactions": "Metabolized in the liver to lactic acid.",
+        "origin": " Synthetic compound derived from petroleum.",
+        "dailyIntake": "25 mg/kg body weight."
+    },
+    {
+        "code": "E428",
+        "name": "Gelatin",
+        "overview": "Gelling agent derived from collagen.",
+        "uses": "Common in jelly desserts, marshmallows, and gummy candies.",
+        "precautions": "Generally considered safe but not suitable for vegetarians or vegans.",
+        "interactions": "Broken down into amino acids in the digestive tract.",
+        "origin": "Derived from animal collagen, typically from pork or beef.",
+        "dailyIntake": "Not specified."
+    },
+    {
+        "code": "E171",
+        "name": "Titanium Dioxide",
+        "overview": "Whitening agent and pigment.",
+        "uses": "Used in chewing gum, candies, and powdered sugar products.",
+        "precautions": "Concerns about potential carcinogenicity in nanoparticle form; usage in food is being re-evaluated in some regions.",
+        "interactions": "Not absorbed by the body, passes through the digestive system.",
+        "origin": "Naturally occurring mineral, processed for purity.",
+        "dailyIntake": "Not specified."
+    },
+    {
+        "code": "E412",
+        "name": "Guar Gum ",
+        "overview": "Thickener and stabilizer extracted from guar beans.",
+        "uses": "Found in ice cream, sauces, and gluten-free baked goods.",
+        "precautions": "Excessive intake can cause digestive issues like gas and bloating.",
+        "interactions": "Soluble fiber that slows digestion and may help regulate blood sugar levels.",
+        "origin": "Extracted from the guar plant (Cyamopsis tetragonoloba).",
+        "dailyIntake": "Not specified."
+    },
+    {
+        "code": "E955",
+        "name": "Sucralose",
+        "overview": "Artificial sweetener, about 600 times sweeter than sugar.",
+        "uses": "Sweetens diet beverages, baked goods, and desserts.",
+        "precautions": "Generally considered safe, but some studies suggest it may affect gut bacteria.",
+        "interactions": "Not metabolized by the body, excreted unchanged.",
+        "origin": "Chemically modified from sucrose.",
+        "dailyIntake": "5 mg/kg body weight."
+    },
+    {
+        "code": "E150",
+        "name": "Caramel Color",
+        "overview": "Brown coloring agent.",
+        "uses": "Used in soft drinks, sauces, and baked goods.",
+        "precautions": "Some types contain 4-MEI, which is a potential carcinogen.",
+        "interactions": "Generally safe in small amounts; higher concentrations may pose risks.",
+        "origin": "Produced by heating carbohydrates like sugar.",
+        "dailyIntake": "Not specified."
+    },
+    {
+        "code": "E433",
+        "name": "Polysorbate 80",
+        "overview": "Emulsifier and surfactant.",
+        "uses": "Found in ice cream, salad dressings, and pharmaceuticals.",
+        "precautions": "May cause allergic reactions or digestive discomfort in sensitive individuals.",
+        "interactions": "Helps mix oil and water-based ingredients.",
+        "origin": "Synthetic compound derived from sorbitol.",
+        "dailyIntake": "25 mg/kg body weight."
+    },
+    {
+        "code": "E170",
+        "name": "Calcium Carbonate",
+        "overview": "Antacid and dietary calcium supplement.",
+        "uses": "Fortifies foods and acts as an anti-caking agent in powdered products.",
+        "precautions": "Excessive intake can lead to kidney stones and hypercalcemia.",
+        "interactions": "Neutralizes stomach acid and provides calcium.",
+        "origin": "Naturally occurring mineral.",
+        "dailyIntake": "Not specified."
+    },
+    {
+        "code": "E334",
+        "name": "Tartaric Acid",
+        "overview": "Acidulant that adds tartness to foods.",
+        "uses": "Found in wine, soft drinks, and baking powder.",
+        "precautions": "Generally safe, but high doses can cause gastrointestinal distress.",
+        "interactions": "Participates in the Krebs cycle, aiding in energy production.",
+        "origin": "Naturally found in grapes and other fruits.",
+        "dailyIntake": "Not specified."
+    },
+    {
+        "code": "E160b",
+        "name": "Annatto",
+        "overview": "Natural food coloring derived from the seeds of the achiote tree.",
+        "uses": "Colors dairy products like cheese, butter, and margarine.",
+        "precautions": "Can cause allergic reactions in sensitive individuals.",
+        "interactions": "Considered safe and non-toxic.",
+        "origin": "Derived from the seeds of the achiote tree (*Bixa orellana).",
+        "dailyIntake": "Not specified."
+    },
+    {
+        "code": "E481",
+        "name": "Sodium Stearoyl Lactylate",
+        "overview": "Emulsifier that helps mix fats and water.",
+        "uses": "Common in baked goods, margarine, and salad dressings.",
+        "precautions": "Generally safe, but can cause digestive discomfort in large quantities.",
+        "interactions": "Helps improve texture and volume in baked goods.",
+        "origin": "Derived from lactic acid and stearic acid.",
+        "dailyIntake": "Not specified."
+    },
+    {
+        "code": "E385",
+        "name": "Calcium Disodium EDTA",
+        "overview": "Preservative and chelating agent.",
+        "uses": "Prevents discoloration and rancidity in canned foods and dressings.",
+        "precautions": "Generally safe, but excessive intake can lead to mineral depletion.",
+        "interactions": "Binds to metal ions, preventing oxidation.",
+        "origin": "Synthetic compound.",
+        "dailyIntake": "2.5 mg/kg body weight."
+    },
+    {
+        "code": "E320",
+        "name": "BHA (Butylated Hydroxyanisole)",
+        "overview": "Antioxidant preservative.",
+        "uses": "Preserves fats and oils in food products.",
+        "precautions": "Potential carcinogen in high doses; usage is restricted in some countries.",
+        "interactions": "Prevents oxidative rancidity in fats and oils",
+        "origin": "Synthetic compound.",
+        "dailyIntake": "0.5 mg/kg body weight."
+    },  
+    {
+        "code": "E301",
+        "name": "Sodium Ascorbate",
+        "overview": "Antioxidant and preservative.",
+        "uses": "Used to preserve color and freshness in processed meats.",
+        "precautions": "Generally safe, but excessive intake can lead to gastrointestinal discomfort.",
+        "interactions": "Functions as a source of vitamin C and prevents oxidation.",
+        "origin": "Derived from ascorbic acid (vitamin C).",
+        "dailyIntake": "Not specified."
+    },  
+    {
+        "code": "E270",
+        "name": "Lactic Acid",
+        "overview": "Acidulant and preservative.",
+        "uses": "Found in fermented foods, salad dressings, and soft drinks.",
+        "precautions": "Generally safe, but excessive intake can cause tooth enamel erosion.",
+        "interactions": "Naturally produced in the body during exercise; participates in the energy cycle.",
+        "origin": "Produced by bacterial fermentation of carbohydrates.",
+        "dailyIntake": "Not specified."
+    },  
+    {
+        "code": "E331",
+        "name": "Sodium Citrate",
+        "overview": "Buffering agent and emulsifier.",
+        "uses": "Common in beverages, processed cheeses, and pharmaceuticals.",
+        "precautions": "Generally safe, but excessive intake can cause alkalosis.",
+        "interactions": "Helps maintain pH balance and acts as a preservative.",
+        "origin": "Derived from citric acid.",
+        "dailyIntake": "Not specified."
+    },  
+    {
+        "code": "E508",
+        "name": "Potassium Chloride",
+        "overview": "Salt substitute and electrolyte replenisher.",
+        "uses": "Used in low-sodium foods, sports drinks, and as a seasoning.",
+        "precautions": "High intake can cause hyperkalemia, especially in those with kidney issues.",
+        "interactions": "Maintains potassium levels and balances electrolytes.",
+        "origin": "Naturally occurring mineral.",
+        "dailyIntake": "Not specified, but should be moderated."
+    },  
+    {
+        "code": "E575",
+        "name": "Glucono Delta-Lactone ",
+        "overview": "Acidulant and leavening agent.",
+        "uses": "Found in tofu, cheese, and baked goods.",
+        "precautions": "Generally safe, but excessive intake can cause metabolic acidosis.",
+        "interactions": "Slowly hydrolyzes to gluconic acid in water.",
+        "origin": "Produced by the oxidation of glucose.",
+        "dailyIntake": "Not specified."
+    },  
+    {
+        "code": "E160c",
+        "name": "Paprika Extract",
+        "overview": "Natural colorant and flavor enhancer.",
+        "uses": "Colors and flavors processed meats, snacks, and sauces.",
+        "precautions": "Generally safe, but may cause allergic reactions in sensitive individuals.",
+        "interactions": "Provides carotenoids, which have antioxidant properties.",
+        "origin": "Extracted from red peppers (Capsicum annuum).",
+        "dailyIntake": "Not specified."
+    },   
+    {
+        "code": "E300",
+        "name": "Ascorbic Acid (Vitamin C)",
+        "overview": "Antioxidant and vitamin.",
+        "uses": "Prevents oxidation in foods and beverages; also used as a nutritional supplement.",
+        "precautions": "High doses can cause gastrointestinal distress and kidney stones.",
+        "interactions": "Essential for collagen synthesis and immune function.",
+        "origin": "Naturally found in fruits and vegetables; also synthetically produced.",
+        "dailyIntake": "Not specified, but the recommended daily allowance (RDA) is 65-90 mg."
+    },  
+    {
+        "code": "E162",
+        "name": "Beet Red",
+        "overview": "Natural coloring agent.",
+        "uses": "Colors candies, dairy products, and beverages.",
+        "precautions": "Generally safe, but may cause red urine or stool in high amounts.",
+        "interactions": "Provides betalains, which have antioxidant properties.",
+        "origin": "Extracted from beetroot.",
+        "dailyIntake": "Not specified."
+    },  
+    {
+        "code": "E551",
+        "name": "Silicon Dioxide",
+        "overview": "Anti-caking agent.",
+        "uses": "Prevents clumping in powdered foods, spices, and supplements.",
+        "precautions": "Generally considered safe, but inhalation of fine particles can cause respiratory issues.",
+        "interactions": "Not absorbed by the body, passes through the digestive system.",
+        "origin": "Naturally occurring mineral.",
+        "dailyIntake": "Not specified."
+    },
+    {
+        "code": "E252",
+        "name": "Potassium Nitrate",
+        "overview": "Preservative and color fixative in cured meats.",
+        "uses": "Found in cured meats like bacon, ham, and sausages.",
+        "precautions": "High intake can lead to methemoglobinemia and the formation of carcinogenic nitrosamines.",
+        "interactions": "Converts to nitrite in the body, which can then form nitrosamines.",
+        "origin": "Naturally occurring in some vegetables; also synthetically produced.",
+        "dailyIntake": "3.7 mg/kg body weight."
+    },
+    {
+        "code": "E160a",
+        "name": "Beta-Carotene",
+        "overview": "A natural pigment used to color foods and as a source of Vitamin A.",
+        "uses": "Found in margarine, cheese, and soft drinks.",
+        "precautions": "Generally safe; excessive consumption may cause carotenemia (yellowing of the skin).",
+        "interactions": "Converted to Vitamin A in the body, supporting vision and immune function.",
+        "origin": "Naturally occurs in carrots, sweet potatoes, and other vegetables.",
+        "dailyIntake": "Not limited."
+    },
+    {
+        "code": "E410",
+        "name": "Locust Bean Gum",
+        "overview": "A thickening agent derived from the seeds of the carob tree.",
+        "uses": "Common in ice cream, cream cheese, and salad dressings.",
+        "precautions": "Generally considered safe; may cause digestive discomfort if consumed in large amounts.",
+        "interactions": "Used to improve texture and stability in food products.",
+        "origin": "Naturally extracted from carob seeds.",
+        "dailyIntake": "Not limited."
+    },
+    {
+        "code": "E297",
+        "name": "Fumaric Acid",
+        "overview": "A food acid used as a preservative and flavoring agent.",
+        "uses": "Found in fruit juices, gelatin desserts, and baking powders.",
+        "precautions": "Generally recognized as safe; excessive consumption may cause digestive upset.",
+        "interactions": "Enhances flavor and preserves freshness in food products.",
+        "origin": "Synthetically produced or derived from certain fruits.",
+        "dailyIntake": "6 mg/kg body weight."
+    },
+    {
+        "code": "E234",
+        "name": "Nisin",
+        "overview": "A natural preservative produced by fermentation, used to inhibit bacterial growth.",
+        "uses": "Commonly found in dairy products and canned vegetables.",
+        "precautions": "Generally considered safe; no significant side effects reported.",
+        "interactions": "Inhibits the growth of certain bacteria, extending shelf life.",
+        "origin": "Produced by bacterial fermentation of Lactococcus lactis.",
+        "dailyIntake": "Not limited."
+    },
+    {
+        "code": "E150a",
+        "name": "Caramel Color",
+        "overview": "A widely used food coloring that gives a brown color to various foods and drinks.",
+        "uses": "Common in soft drinks, sauces, and baked goods.",
+        "precautions": "Generally recognized as safe; some types may contain contaminants.",
+        "interactions": "Provides color without altering flavor.",
+        "origin": "Produced by heating sugar with or without acids or alkalis.",
+        "dailyIntake": "Not limited."
+    },  
+    {
+        "code": "",
+        "name": "",
+        "overview": "",
+        "uses": "",
+        "precautions": "",
+        "interactions": "",
+        "origin": "",
+        "dailyIntake": ""
+    },  
+    {
+        "code": "",
+        "name": "",
+        "overview": "",
+        "uses": "",
+        "precautions": "",
+        "interactions": "",
+        "origin": "",
+        "dailyIntake": ""
+    },  
+    {
+        "code": "",
+        "name": "",
+        "overview": "",
+        "uses": "",
+        "precautions": "",
+        "interactions": "",
+        "origin": "",
+        "dailyIntake": ""
+    }   
+]
