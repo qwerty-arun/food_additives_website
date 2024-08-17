@@ -78,3 +78,43 @@ h1 {
     margin: 5px 0;
     line-height: 1.6;
 }
+
+footer {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: #1b2838; /* Deep navy blue background */
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+footer .links {
+    display: flex;
+    flex-direction: row;
+}
+
+footer a {
+    color: #ffffff; /* White text */
+    text-decoration: none;
+    margin-right: 20px; /* Space between links */
+    font-size: 14px;
+}
+
+footer a:last-child {
+    margin-right: 0; /* Remove margin for the last link */
+}
+
+footer a:hover {
+    color: #f5f7fa; /* Light grayish-blue on hover */
+}
+
+.github-link {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+}
+
+.github-logo {
+    width: 30px;
+    height: auto;
+}
